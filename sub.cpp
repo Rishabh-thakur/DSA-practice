@@ -5,6 +5,6 @@ int main()
 {
                           int a,b;
                           cin>>a>>b;
-                          cout<<"diff is "<<a-b<<endl;
+                          cout<<"the diff is "<<a-b<<endl;
                           return 0;
 }
